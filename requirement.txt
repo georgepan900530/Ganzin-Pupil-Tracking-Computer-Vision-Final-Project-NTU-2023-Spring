@@ -1,0 +1,12 @@
+opencv-python
+natsort
+torch
+numpy
+tqdm
+matplotlib
+torchvision
+wandb
+zipfile36
+pycocotools
+onnxruntime
+onnx
